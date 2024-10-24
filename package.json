@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/nexgen-team-project/",
+    "build": "vite build --base=/112_html-css_Vlad-Rzaiev/",
     "preview": "vite preview"
   },
   "devDependencies": {
